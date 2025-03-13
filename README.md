@@ -1,5 +1,8 @@
 # story-gen
 A story generator gpt model influence by reasoning model Deepseek R1<br/>
+The general idea is to teach the model to generate an outline or though before actually comes to generating the story. <br/>
+After that,**without the need of dataset with actual story in it.**, the model is then trained based on its think and story (story length, correlation) just based on its generation of the prompts <br/>
+<br/>
 Pattern for my story represtation:
 ```
 <prompt>
