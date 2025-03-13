@@ -26,6 +26,10 @@ Data Preperation
 \-> [Pattern Learning](https://colab.research.google.com/drive/1Siri0UirPqgeHjKRThxrrnZVEPbQRHd-)
 \-> [Reinforcement Learning](https://www.kaggle.com/code/nabinguyen/gpt-reasoning-rl)
 
+
+Comparison Notebook (comparing between normal finetune, pattern learned and reinforcement trained): [Comparer](https://colab.research.google.com/drive/1eOGITtRoqKEjDHdA3vNuYC67QWetnIQl?usp=sharing)
+
+
 # I. Data Preparation
 Utilize the online dataset: [writingprompts dataset](https://huggingface.co/datasets/euclaise/writingprompts) - 272K data of prompts and short stories
 ## 1. Reasoning generation dataset:
